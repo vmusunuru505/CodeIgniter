@@ -26,13 +26,8 @@ class Welcome extends CI_Controller {
                 //$this->load->view('welcome_message');
 	}
 	
-<<<<<<< HEAD
 	public function test()
-=======
-	public function test1()
->>>>>>> refs/remotes/origin/CIBranch1
 	{
 		// test
-	}
 	}
 }
